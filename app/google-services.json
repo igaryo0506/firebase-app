@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722660392354",
+    "project_id": "firstproject-igaryo",
+    "storage_bucket": "firstproject-igaryo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722660392354:android:0b8d16dfc58c1dc20b46fb",
+        "android_client_info": {
+          "package_name": "app.igarashi.igaryo.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722660392354-a3tj1a4potmmlilddq6j0mk3av3bjami.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLmULf4xsejze0Gt4k9S86uzdFMbHmJX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722660392354-a3tj1a4potmmlilddq6j0mk3av3bjami.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
